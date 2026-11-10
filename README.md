@@ -170,7 +170,7 @@ When I'm not writing code, I enjoy:
 
 - **GitHub:** [ria-bot](https://github.com/ria-bot)
 - **LinkedIn:** [Gloria Muluka](https://www.linkedin.com/in/gloria-muluka-10896a3a2/)
-- **Email:** [Contact Me](mailto:gloriamuluka06@gmail.com)
+- **Email:** [Contact Me](mailto:gloria.muluka@strathmore.com)
 
 ---
 
