@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Gloria Muluka - Computer Science Student and Aspiring Software Developer"/>
+</p>
 <h1 align="center">Hi, I'm Gloria Muluka 👋</h1>
 
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
