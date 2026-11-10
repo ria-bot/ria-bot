@@ -144,6 +144,16 @@ An interactive browser-based project.
 
 ---
 
+### 6. Dodge the Shadow
+**Game Development | Interactive Application**
+
+An interactive game project focused on gameplay mechanics, player interaction and real-time movement.
+
+🔗 [View Repository](https://github.com/ria-bot/Dodge-the-Shadow)
+
+
+---
+
 ## Certifications & Training
 
 - **Moringa School** – Generative AI Essentials for Software Developers
