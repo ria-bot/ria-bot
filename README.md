@@ -74,7 +74,7 @@ Kenya Certificate of Primary Education (KCPE)
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
 ### 1. Finance Manager
 **Python | File Handling**
@@ -144,7 +144,7 @@ An interactive browser-based project.
 
 ---
 
-## 🏆 Certifications & Training
+## Certifications & Training
 
 - **Moringa School** – Generative AI Essentials for Software Developers
 - **Cybersecurity / Splunk Training**
@@ -152,18 +152,21 @@ An interactive browser-based project.
 
 ---
 
-## 🌸 Beyond Coding
+## Beyond Coding
 
 When I'm not writing code, I enjoy:
 
-- 🏊 Swimming
-- 🎾 Tennis
-- 📚 Exploring new ideas and technologies
-- 💡 Learning new ways to solve problems
+-  Swimming
+-  Tennis
+-  Gaming
+-  Hiking
+-  Outdoor Adventuring
+-  Exploring new ideas and technologies
+-  Learning new ways to solve problems
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 - **GitHub:** [ria-bot](https://github.com/ria-bot)
 - **LinkedIn:** [Gloria Muluka](https://www.linkedin.com/in/gloria-muluka-10896a3a2/)
@@ -172,6 +175,6 @@ When I'm not writing code, I enjoy:
 ---
 
 <p align="center">
-  <i>"Building, learning and growing — one project at a time."</i>
+  <i>"Thank you for reading my portfolio."</i>
 </p>
 ```
