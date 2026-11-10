@@ -1,0 +1,37 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#263c32"/>
+      <stop offset="55%" stop-color="#405b49"/>
+      <stop offset="100%" stop-color="#202d27"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+  <circle cx="1080" cy="45" r="130" fill="#a9c4a8" opacity=".08"/>
+  <circle cx="110" cy="240" r="150" fill="#c5b4d8" opacity=".08"/>
+
+  <g fill="none" stroke="#b6c9aa" opacity=".65" stroke-width="2">
+    <path d="M70 65 Q130 15 180 70 Q125 125 70 65Z"/>
+    <path d="M125 42 Q125 80 125 105"/>
+    <path d="M1030 190 Q1080 135 1130 190 Q1080 245 1030 190Z"/>
+    <path d="M1080 165 L1080 220"/>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="600" y="105" fill="#f5f0e6"
+      font-family="Georgia,serif" font-size="65">
+      Gloria Muluka
+    </text>
+    <text x="600" y="158" fill="#d6e1d1"
+      font-family="Arial,sans-serif" font-size="27">
+      Computer Science Student | Aspiring Software Developer
+    </text>
+    <text x="600" y="215" fill="#c5b4d8"
+      font-family="Georgia,serif" font-size="23"
+      font-style="italic">
+      Build • Learn • Innovate
+    </text>
+  </g>
+</svg>
